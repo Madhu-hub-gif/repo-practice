@@ -1,6 +1,6 @@
 print("Hello, World!")
 
-a= "Python"
-b = "is"
-c = "awesome"
-print(a, b, c)
+x= "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
