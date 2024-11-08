@@ -1,4 +1,4 @@
-print("Hello, madyy"!)
+print("Hello, madyy!")
 
 x= "Python"
 y = "is"
